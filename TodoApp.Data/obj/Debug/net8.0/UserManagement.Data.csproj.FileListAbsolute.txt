@@ -1,0 +1,17 @@
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\bin\Debug\net8.0\UserManagement.Data.deps.json
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\bin\Debug\net8.0\UserManagement.Data.runtimeconfig.json
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\bin\Debug\net8.0\UserManagement.Data.dll
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\bin\Debug\net8.0\UserManagement.Data.pdb
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\bin\Debug\net8.0\UserManagement.Domain.dll
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\bin\Debug\net8.0\UserManagement.Domain.pdb
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\UserManagement.Data.csproj.AssemblyReference.cache
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\UserManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\UserManagement.Data.AssemblyInfoInputs.cache
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\UserManagement.Data.AssemblyInfo.cs
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\UserManagement.Data.csproj.CoreCompileInputs.cache
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\UserMana.6FF3F06E.Up2Date
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\UserManagement.Data.dll
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\refint\UserManagement.Data.dll
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\UserManagement.Data.pdb
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\UserManagement.Data.genruntimeconfig.cache
+D:\Code\Project\Backend\TodoApp\TodoApp.Data\obj\Debug\net8.0\ref\UserManagement.Data.dll
